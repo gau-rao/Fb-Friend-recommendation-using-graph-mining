@@ -70,7 +70,3 @@ inter_follower and shortest_path.
 6. For XGBOOST, follows_back was the most important feature. Followed by cosine_follower
 and weight_f1.
 
-## Note:
-
-you can get all the weight and excel files used in above case study from here...
-https://drive.google.com/o
